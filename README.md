@@ -1,7 +1,15 @@
-<span style="display: flex; justify-content: flex-end">
-    <img src="https://views.whatilearened.today/views/github/icleitoncosta/views.svg"/>   
-</span>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icleitoncosta&theme=nord&no-frame=true&column=8" alt="icleitoncosta" /></a> </p>
+<div align="center">
+
+**Linguagens:** Typescript | Node | PHP | Java | Dart  
+**Bancos de Dados:** MySQL | Redis | Cassandra  
+**Frameworks:** Vue.js | React | Bootstrap | Quasar | Flutter  
+**Outros:** K8S | Docker
+
+</div>
+
+<div align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icleitoncosta&theme=nord&no-frame=true&column=5" alt="icleitoncosta" /></a> 
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/cleiton-carvalho-40191428/">
